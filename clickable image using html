@@ -1,0 +1,36 @@
+# 🖼️ Image with Link
+
+A simple HTML project demonstrating how to wrap an image inside a clickable link — one of my early hands-on projects while learning HTML.
+
+🔗 **Live Demo:** [sprightly-pie-5cf9a5.netlify.app](https://sprightly-pie-5cf9a5.netlify.app)
+
+---
+
+## 📌 About
+
+This project practices two core HTML concepts:
+- Embedding images using the `<img>` tag
+- Wrapping elements in anchor `<a>` tags to make them clickable links
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+
+---
+
+## 🚀 Run Locally
+http://sprightly-pie-5cf9a5.netlify.app
+
+---
+
+## 🙋 About Me
+
+I'm Sanchit, a B.Tech CSE student at SRM University, Sonepat, learning web development from scratch.
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [linkedin.com/in/sanchit-marwah-979910418](https://www.linkedin.com/in/sanchit-marwah-979910418/) |
+| 📧 Gmail | [sanchitmarwah03@gmail.com](mailto:sanchitmarwah03@gmail.com) |
+| 🐙 GitHub | [github.com/Sanchit0307](https://github.com/Sanchit0307) |
