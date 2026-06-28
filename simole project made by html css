@@ -1,0 +1,29 @@
+# CSS Styling Practice Project
+
+A beginner CSS practice project built while learning web development fundamentals.
+
+## 🔗 Live Demo
+[View Project](https://earnest-dasik-e1c291.netlify.app/)
+
+## 📌 About
+This project was built as a hands-on exercise to practice core CSS styling concepts alongside HTML structure. It focuses on applying typography, color, and text styling to a basic webpage layout.
+
+## 🛠️ Concepts Practiced
+- CSS Fonts (font-family, font-size, font-weight)
+- Text Styling (text-align, text-decoration, line-height, letter-spacing)
+- Colors (color, background-color, hex and rgb values)
+- Linking external CSS to HTML
+- Basic page structure and layout
+
+## 💻 Tech Stack
+- HTML
+- CSS
+
+## 🚀 Deployment
+Deployed using [Netlify](https://www.netlify.com/)
+
+## 👨‍💻 Author
+**Sanchit Marwah**  
+B.Tech CSE Student | SRM University Sonepat  
+[GitHub](https://github.com/Sanchit0307) 
+[LinkedIn](https://www.linkedin.com/in/sanchit-marwah-979910418)
