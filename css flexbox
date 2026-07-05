@@ -2,7 +2,7 @@
 
 A CSS project built while learning Flexbox — covers basic page layout with a navbar and text content arranged using CSS Flexbox properties.
 
-🔗 **Live Demo:** (https://singular-beijinho-5917be.netlify.app)
+🔗 **Live Demo:** [singular-beijinho-5917be.netlify.app](https://singular-beijinho-5917be.netlify.app)
 
 ---
 
@@ -25,7 +25,7 @@ This project practices core Flexbox concepts:
 ## 🚀 Run Locally
 
 ```bash
-# Open practiseset.html directly in your browser — no setup needed
+# Open index.html directly in your browser — no setup needed
 ```
 
 ---
