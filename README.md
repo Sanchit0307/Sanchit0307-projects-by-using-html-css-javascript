@@ -10,7 +10,7 @@ A collection of small projects built while learning web development from scratch
  
 This is my **learning-in-public** repo. Every time I learn a new concept in HTML, CSS, or JavaScript, I build a small project to solidify it. Think of it as my coding journal — raw, real, and growing.
  
-> Inspired by the *"build to learn"* philosophy — the best way to understand something is to make something with it.
+
  
 ---
  
